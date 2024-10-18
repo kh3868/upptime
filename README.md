@@ -30,5 +30,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 
 <br><br><br>
-<a href="https://www.peterkimzz.com/monitoring-tool-in-10-minutes">[aaa](https://www.peterkimzz.com/monitoring-tool-in-10-minutes)</a>
+<a href="https://www.peterkimzz.com/monitoring-tool-in-10-minutes">[https://www.peterkimzz.com/monitoring-tool-in-10-minutes]</a>
 <br><br><br>
