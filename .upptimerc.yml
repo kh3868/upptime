@@ -7,5 +7,7 @@ sites:
     url: http://peterkimzz.com
 
 status-website:
-  name: Upptime for peterkimzz.com
-  cname: upptime.peterkimzz.com
+  name: Upptime for peterkimzz.com  
+  baseUrl: /upptime
+
+ 
