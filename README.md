@@ -32,5 +32,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <br><br>
 <a href="https://www.peterkimzz.com/monitoring-tool-in-10-minutes" target="_blank">[https://www.peterkimzz.com/monitoring-tool-in-10-minutes]</a>
 <br><br>
-<a href="https://kh3868.github.io/upptime/index.html" target="_blank">[https://kh3868.github.io/upptime/index.html]</a>
+<a href="https://kh3868.github.io/upptime/info.html" target="_blank">[https://kh3868.github.io/upptime/info.html]</a>
 
